@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sham Kumar 👋
 
-<!--
-**shyam007-srec/shyam007-srec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / GenAI Engineer in the making.
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate focused on:
+• Generative AI
+• Retrieval-Augmented Generation (RAG)
+• AI Agents
+• Machine Learning
+• Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building AI systems and looking for AI/GenAI internship opportunities.
+
+### Featured Projects
+
+🔹 Hybrid RAG Knowledge Assistant
+Hybrid retrieval + BM25 + LangGraph + evaluation
+
+🔹 AI Lead Generation Agent
+AI-powered web research + ICP-based lead qualification
+
+### Tech Stack
+
+Python • PyTorch • Scikit-learn • LangGraph
+PostgreSQL • REST APIs • Git • n8n
