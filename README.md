@@ -158,8 +158,6 @@ I also work on Machine Learning and data science projects through Kaggle.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/sham-kumar-a10037323/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
 <a href="https://github.com/shyam007-srec"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <a href="https://www.kaggle.com/shamkumar1307"> <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> </a>
