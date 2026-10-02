@@ -73,59 +73,11 @@ An AI-powered agent for discovering and qualifying business prospects using ICP 
 
 🔥 Featured Work
 🧠 Hybrid RAG Knowledge Assistant
-Documents
-    │
-    ▼
-┌──────────────────┐
-│ Document Ingest  │
-└────────┬─────────┘
-         │
-         ▼
-┌────────────────────────────┐
-│     Hybrid Retrieval       │
-│                            │
-│  Dense Search + BM25       │
-└────────────┬───────────────┘
-             │
-             ▼
-      ┌──────────────┐
-      │   Reranking  │
-      └──────┬───────┘
-             │
-             ▼
-      ┌──────────────┐
-      │   LangGraph  │
-      │   Pipeline   │
-      └──────┬───────┘
-             │
-             ▼
-          ┌─────┐
-          │ LLM │
-          └──┬──┘
-             │
-             ▼
-      Answer + Sources
+
 
 Repository:
 https://github.com/shyam007-srec/Rag-system
 
-🤖 AI Lead Generation Agent
-        ICP
-         │
-         ▼
-   Web Research
-         │
-         ▼
- Company Discovery
-         │
-         ▼
- Information Extraction
-         │
-         ▼
-  ICP Qualification
-         │
-         ▼
- Structured Leads
 
 Repository:
 https://github.com/shyam007-srec/Agent-Flow
